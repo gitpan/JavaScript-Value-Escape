@@ -1,5 +1,5 @@
 ---
-abstract: 'Avoid JavaScript value XSS'
+abstract: 'Avoid XSS with JavaScript value interpolation'
 author:
   - 'Masahiro Nagano <kazeburo {at} gmail.com>'
 build_requires:
@@ -23,4 +23,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/kazeburo/JavaScript-Value-Escape.git
-version: 0.03
+version: 0.04

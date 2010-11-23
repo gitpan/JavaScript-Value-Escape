@@ -13,3 +13,7 @@ Str
 unicode
 UTF
 ascii
+HTML
+JSON
+gfx
+Goro
